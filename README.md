@@ -5,5 +5,10 @@
 <div id='badges' align='center'>
     <a href='https://www.linkedin.com/in/sofiabelencoria/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'
-    alt='Linkedin Badge'/>
+    alt='Linkedin Badge'/
     </div>
+---
+### Sobre mi:
+- 🌱Me estoy intensamente adentrando al mundo del Data Science de manera autónoma
+- 💬我正在學習普通話/Estoy estudiando Chino Mandarín por mi cuenta, and I'm learning English on my own too
+- 💻Me gusta utilizar los recursos que me brinda la internet para aprender siempre cosas nuevas

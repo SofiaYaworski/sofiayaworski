@@ -12,7 +12,7 @@
 ---
 ### 👩‍💻Sobre mi:
 <h14 align='left'>
-    <p> - 🌱 Me estoy intensamente adentrando al mundo del Data Science de manera autónoma </p>
-<p> - 💬 我正在學習普通話/Estoy estudiando Chino Mandarín por mi cuenta, and I'm learning English on my own too </p>
-<p> - 💻 Me gusta utilizar los recursos que me brinda la internet para aprender siempre cosas nuevas </p>
+    <p - 🌱 Me estoy intensamente adentrando al mundo del Data Science de manera autónoma </p>
+<p - 💬 我正在學習普通話/Estoy estudiando Chino Mandarín por mi cuenta, and I'm learning English on my own too </p>
+<p - 💻 Me gusta utilizar los recursos que me brinda la internet para aprender siempre cosas nuevas </p>
     </h4>
